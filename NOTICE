@@ -1,0 +1,8 @@
+Inkling 2 Mini CIRU 512K/1M (NVFP4-KV)
+
+Upstream Inkling 2 Mini model and DSpark draft weights are from Thinking Machines Lab
+(https://huggingface.co/thinkingmachines/Inkling-2-Mini).
+
+The runtime overlay includes code from the vLLM project
+(https://github.com/vllm-project/vllm). Copyright contributors to the vLLM project.
+Ciru modified the NVIDIA runtime for Blackwell and NVFP4 KV caching.
